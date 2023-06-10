@@ -46,6 +46,7 @@ public class Main {
                     System.out.println(stuOutput);
                     output.write(stuOutput + "\n");
                 }
+                output.close();
             } catch (NumberFormatException error) {
                 System.out.println("ERROR:  " + error);
             }

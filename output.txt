@@ -1,0 +1,7 @@
+There are 5 students in the student list. 
+The students are:
+Beckothy Stevens Grade: 12 IEP: false
+Nedidiah  Rogers Grade: 12 IEP: true
+Nikolasso Riscalas Grade: 12 IEP: false
+Adam De_Meo Grade: 9 IEP: false
+Peter Peters Grade: 11 IEP: true
